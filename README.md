@@ -1,7 +1,7 @@
 # SmartCalc v1.0
 
-> При старте работы над проектом просим вас постараться хронометрировать время работы над проектом.
-> По завершении работы над проектом просим вас ответить на два вопроса [в этом опросе](https://forms.gle/MAxcabZjBPmTmhPv5)
+> При старте работы над проектом просим тебя постараться хронометрировать время работы над проектом.
+> По завершении работы над проектом, пожалуйста, ответь на два вопроса [в этом опросе](https://forms.gle/MAxcabZjBPmTmhPv5)
 
 Implementation of SmartCalc v1.0.
 
@@ -25,9 +25,9 @@ The russian version of the task can be found in the repository.
 
 ![SmartCalc](misc/eng/images/smartcalc.jpg)
 
-Planet Earth, USA, California, Cupertino, 10260 Bandley Drive, August 5, 1983.
+Planet Earth, August 5, 1983.
 
-Muffled footsteps quickly approached the room. It was strange, as if the person walking was barefoot. A sudden stop at the door, some inarticulate dialogue apparently with a passerby... the door opens and he enters. As he looks around the room on the go, he quickly grabs a few people out of the crowd that was discussing something and gestured them to follow him.
+Muffled footsteps quickly approach the room. It is strange, as if this person is barefoot. A sudden stop at the door, some inarticulate dialogue, apparently with a passerby... then the door opens and he enters. As he glances around the room, he quickly grabs a few people from the crowd, who are discussing something, and gestures for them to follow him.
 
 He speaks as he goes:
 
@@ -242,4 +242,4 @@ Provide a special mode "deposit profitability calculator" (you can take banki.ru
 
 
 
-💡 [Tap here](https://forms.yandex.ru/cloud/6418155a6938722388a12878/) **to leave your feedback on the project**. Pedago Team really tries to make your educational experience better.
+💡 [Tap here](https://forms.yandex.ru/cloud/6418155a6938722388a12878/) **to leave your feedback on the project**. Product Team really tries to make your educational experience better.
