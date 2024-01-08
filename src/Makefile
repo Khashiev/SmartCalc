@@ -17,6 +17,11 @@ endif
 
 # all: install
 
+install:
+	mkdir build
+	cd build && qmake ../front/Calc && make
+	rm -rf build
+
 s21_SmartCalc.a: ${OBJ}
 	@ar rcs s21_SmartCalc.a $^
 	@ranlib s21_SmartCalc.a
