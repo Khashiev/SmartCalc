@@ -89,7 +89,7 @@ double calculateSimpleOperation(Lexeme *operation, double firstNumber,
                                 double secondNumber);
 
 // calc
-int from_answer(char *str, double *result, double x);
+int from_answer(char *str, double x, double *result);
 
 #ifdef __cplusplus
 }

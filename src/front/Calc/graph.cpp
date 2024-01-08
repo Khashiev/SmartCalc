@@ -34,7 +34,7 @@ void Graph::on_pushButton_clicked() {
 
   for (X = xBegin; X <= xEnd; X += step) {
     x.push_back(X);
-    err = qt_calculator(ptr_mass_chars, X, &result);
+    err = from_answer(ptr_mass_chars, X, &result);
     if (err == 0 && result >= yBegin && result <= yEnd) {
       y.push_back(result);
     } else {

@@ -1,6 +1,6 @@
 #include "s21_SmartCalc.h"
 
-int from_answer(char* str, double* result, double x) {
+int from_answer(char* str, double x, double* result) {
   int status = OK;
   *result = 0;
   Stack infix;

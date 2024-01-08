@@ -74,7 +74,7 @@ void MainWindow::on_pushButton_result_clicked() {
   QByteArray mass_chars = screen_result.toLocal8Bit();
   char *ptr_mass_chars = mass_chars.data();
 
-  err = qt_calculator(ptr_mass_chars, 0, &result);
+  err = from_answer(ptr_mass_chars, 0, &result);
   if (err == 0) {
     QString result_string = QString::number(result, 'g', 15);
     ui->result_show->setText(result_string);
