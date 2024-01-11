@@ -27,7 +27,7 @@ uninstall:
 	rm -rf ~/Calc
 
 dist: install
-	tar -czf calc.tar.gz ~/Calc/Calculator
+	tar -czf calc.tar.gz ~/Calc/Calc
 	rm -rf ~/Calc
 
 s21_SmartCalc.a: ${OBJ}
