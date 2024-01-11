@@ -83,13 +83,12 @@ int getNumber(char *str, Stack *stack, int *i, int *unaryMinus, int *unaryPlus);
 int reverseStack(Stack *inputStack, Stack *reversedStack);
 int getPostfix(Stack *infix, Stack *buffer, Stack *postfix);
 
+// calc
+int from_answer(char *str, double x, double *result);
 int calculateResult(Stack *rpn, double x, double *result);
 double calculateTrig(Lexeme *operation, Lexeme *number);
 double calculateSimpleOperation(Lexeme *operation, double firstNumber,
                                 double secondNumber);
-
-// calc
-int from_answer(char *str, double x, double *result);
 
 #ifdef __cplusplus
 }
