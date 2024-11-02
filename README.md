@@ -1,6 +1,6 @@
-# SmartCalc v1.0
+# SmartCalc 
 
-Implementation of SmartCalc v1.0.
+Implementation of SmartCalc
 
 ## Description
 
